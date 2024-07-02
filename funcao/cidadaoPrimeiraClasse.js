@@ -13,7 +13,7 @@ console.log(array[0](2, 3))
 
 // Armazenar em um atributo de objeto
 const obj = {}
-obj.falar = function () { reeturn 'Opa' }
+obj.falar = function () { return 'Opa' }
 console.log(obj.falar())
 
 // Passar funcao como param
